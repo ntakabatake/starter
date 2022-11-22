@@ -20,5 +20,6 @@ const country = "United States";
 const continent = "North America";
 const isIsland = false;
 
-//isIsland = true;
-gh
+console.log(population / 2);
+population++;
+
